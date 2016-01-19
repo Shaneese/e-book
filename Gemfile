@@ -49,6 +49,7 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 
 gem 'cancan'
 
+gem 'paperclip'
 
 gem 'simple_form'
 
